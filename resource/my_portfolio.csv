@@ -1,0 +1,6 @@
+"Project","Techstack"
+"Generative AI SQL Translator, RFP Response Generator, YouTube Converser","OpenAI, Python"
+"MQTT Based Healthcare Monitoring System IOT","MQTT, Hive MQ, Arduino IDE, Node-Red"
+"Exploratory Data Analysis of Exo Planet LightKurve","Python, Lightkurve"
+"EngageX","Chrome API, OpenAI API, React, AWS"
+"PDF chatbot","OpenAI API, Pinecone, ChromaDB, Streamlit"
